@@ -3,9 +3,7 @@
   <h1 style="color: #FFD700; font-family: 'Comic Sans MS', cursive; font-size: 36px; margin-bottom: 10px;">
     mi nombre es christian🐯 
   </h1>
-  <p style="color: #FFFFFF; font-family: 'Comic Sans MS', cursive; font-size: 18px;">
-    A Unity developer specializing in VR and AR, ready to bring creativity to the digital jungle!
-  </p>
+
 </div>
 
 ## 🛠️ Languages and Tools
@@ -30,35 +28,3 @@
   </div>
 </div>
 
-## Showcase
-
-<div align="center" style="background-color: #4CAF50; padding: 20px; border-radius: 15px;">
-  <h2 style="font-family: 'Comic Sans MS', cursive; color: #FFFFFF;">🌟 Project Highlights 🌟</h2>
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <a href="https://youtu.be/pvJzjSp2GBU" target="_blank">
-      <img src="https://img.youtube.com/vi/pvJzjSp2GBU/0.jpg" alt="Video 1" style="width:200px; height:120px; border-radius: 10px; border: 3px solid #FFFFFF;" />
-    </a>
-    <a href="https://youtu.be/2EEce2mX4BU" target="_blank">
-      <img src="https://img.youtube.com/vi/2EEce2mX4BU/0.jpg" alt="Video 2" style="width:200px; height:120px; border-radius: 10px; border: 3px solid #FFFFFF;" />
-    </a>
-    <a href="https://youtu.be/LZPFIbB1jFA" target="_blank">
-      <img src="https://img.youtube.com/vi/LZPFIbB1jFA/0.jpg" alt="Video 3" style="width:200px; height:120px; border-radius: 10px; border: 3px solid #FFFFFF;" />
-    </a>
-  </div>
-</div>
-
-<div align="center" style="background-color: #388E3C; padding: 20px; border-radius: 15px;">
-  <h2 style="font-family: 'Comic Sans MS', cursive; color: #FFD700;">🐾 Follow Me 🐾</h2>
-  <a href="https://www.linkedin.com/in/jorgetorresprieto/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/1_TheLALO" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-FF5722?style=for-the-badge&logo=twitter&logoColor=black" alt="Twitter" />
-  </a>
-  <a href="https://www.instagram.com/theprimategames/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-FF1744?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram" />
-  </a>
-  <a href="https://jorgetorres-300a2.web.app" target="_blank">
-    <img src="https://img.shields.io/badge/Website-00E676?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Website" />
-  </a>
-</div>
