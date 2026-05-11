@@ -1,7 +1,7 @@
 <div align="center" style="background-color: #2E7D32; padding: 20px; border-radius: 15px;">
   
   <h1 style="color: #FFD700; font-family: 'Comic Sans MS', cursive; font-size: 36px; margin-bottom: 10px;">
-    🌴 mi nombre es christian 🐒
+    mi nombre es christian🐯 
   </h1>
   <p style="color: #FFFFFF; font-family: 'Comic Sans MS', cursive; font-size: 18px;">
     A Unity developer specializing in VR and AR, ready to bring creativity to the digital jungle!
@@ -11,15 +11,12 @@
 ## 🛠️ Languages and Tools
 
 <div align="center" style="background-color: #81C784; padding: 20px; border-radius: 15px;">
-  <h2 style="font-family: 'Comic Sans MS', cursive; color: #4CAF50;">🌿 Skills & Tools 🍃</h2>
+  <h2 style="font-family: 'Comic Sans MS', cursive; color: #4CAF50;">Habilidades</h2>
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
 
   <img src="https://img.shields.io/badge/HTML5-FF6F00?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-00ACC1?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-FBC02D?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-0288D1?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/C%23-9C27B0?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Python-FFC107?style=for-the-badge&logo=python&logoColor=black" alt="Python" />
   <br/>
   <img src="https://img.shields.io/badge/Unity-0D47A1?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
   <img src="https://img.shields.io/badge/Three.js-004D40?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
